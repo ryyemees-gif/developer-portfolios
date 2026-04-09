@@ -1319,6 +1319,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ryan Ma](https://yutengma.me/work-experience) [SoC Power Engineer At Apple]
 - [Ryan Maclean](http://ryanmaclean.com)
 - [Ryan Pereira](http://ryanpereira.me)
+- [Rym Tacine]([https://portfolio-rym.onrender.com]) [Full Stack Developer | Web & Mobile Apps]
 
 ## S
 
